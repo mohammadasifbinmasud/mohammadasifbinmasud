@@ -56,4 +56,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mohammadasifbinmasud&icon=0&color=0)](https://visitcount.itsvg.in)
 
+###
+
+<img src="https://raw.githubusercontent.com/mohammadasifbinmasud/mohammadasifbinmasud/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
