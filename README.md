@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="200" src="https://pbs.twimg.com/profile_banners/1393870258797039620/1722346839/1080x360"  />
+</div>
+
 # 💫 About Me:
 👋 Hi, I'm Mohammad Asif — a CSE student passionate about problem solving, and learning new tech.<br>💻 Currently working on strengthening my core in data structures and competitive coding.<br>📚 A bibliophile who loves collecting books, a numismatist by interest, and a philanthropist in spirit.<br>🕋 A Muslim <br>📢 I also run a Telegram channel called "Salaf Kthon" where I share Islamic reminders and reflections.
 
@@ -56,11 +60,15 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mohammadasifbinmasud&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<img src="https://raw.githubusercontent.com/mohammadasifbinmasud/mohammadasifbinmasud/output/snake.svg" alt="Snake animation" />
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadasifbinmasud/mohammadasifbinmasud/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammadasifbinmasud/mohammadasifbinmasud/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohammadasifbinmasud/mohammadasifbinmasud/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
