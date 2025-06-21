@@ -1,11 +1,11 @@
 <div align="center">
   <img height="200" src="https://pbs.twimg.com/profile_banners/1393870258797039620/1722346839/1080x360"  />
 </div>
+<img align="right" alt="Coding" width= "280" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
 
 # 💫 About Me:
 👋 Hi,I'm Mohammad Asif — a CSE student passionate about problem solving, and learning new tech.<br>💻 Currently working on strengthening my core in data structures and competitive coding.<br>📚 A bibliophile who loves collecting books, a numismatist by interest, and a philanthropist in spirit.<br>🕋 A Muslim <br>📢 I also run a Telegram channel called "Salaf Kthon" where I share Islamic reminders and reflections.
 
-<img align="right" alt="Coding" width= "280" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
 
 
 ###
