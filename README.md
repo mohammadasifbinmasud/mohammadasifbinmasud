@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="(https://i.pinimg.com/736x/7c/43/3e/7c433e7273948204d875ee5cdcf218ff.jpg)"  />
+  <img height="200" src="https://img.freepik.com/premium-photo/coder-desk-office-illustration_1100027-2452.jpg"  />
 </div>
 <img align="right" alt="Coding" width= "280" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
 
