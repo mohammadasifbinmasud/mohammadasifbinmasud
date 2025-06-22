@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://img.freepik.com/premium-photo/coder-desk-office-illustration_1100027-2452.jpg"  />
+  <img height="200" src="https://pbs.twimg.com/media/GuEeclRXQAAIsi0?format=png&name=900x900"  />
 </div>
 <img align="right" alt="Coding" width= "280" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
 
@@ -8,7 +8,7 @@
 
 
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-###
+
 ### 🌐 Socials:
  
 ###
